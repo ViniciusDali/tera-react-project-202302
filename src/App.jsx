@@ -6,7 +6,6 @@ import PostForm from "./components/pages/PostForm";
 import "./styles/normalize.css";
 import "./styles/fontawesome.min.css";
 import "./styles/main.css";
-import Users from "./components/pages/Users";
 
 function App() {
   return <PostForm />;
